@@ -1,6 +1,10 @@
 # serilog-sinks-redis
 
-I am a Serilog sink for Redis List
+Since the main repository is inactive -> [https://github.com/dburriss/serilog-sinks-redis]
+
+I decided to detach my pull requests from it and make this repository independent.
+
+I am a Serilog sink for Redis List, now mantained from Turrican.
 
 | DEV |MASTER|BLEEDING|NUGET|
 |-----|------|--------|-----|
